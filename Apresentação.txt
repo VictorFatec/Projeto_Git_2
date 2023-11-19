@@ -1,2 +1,3 @@
 Nome - Victor Hugo Barbosa de Castro
 Título - Apresentação em git
+Resumo - Aprendendo a usar as ferramentas do Git.
